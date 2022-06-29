@@ -21,4 +21,13 @@ public class SquareRoot {
       // close Scanner class object
       scan.close();
    }
-}
+
+	
+	
+	anmkm
+		
+		
+		
+		
+		s;koskll
+			
